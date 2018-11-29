@@ -2,14 +2,21 @@
 ---
 
 ## Preámbulo
-
-En los últimos años el concepto novedoso, el Coworking, un espacio de trabajo compartido, 
+En los últimos años el concepto novedoso, el Coworking, un espacio de trabajo compartido
 
 ## Introducción
 
+El registro para ingresar a una empresa o coworking siempre ha representado una tarea aburrida y lenta, y pese a que en la actualidad la tecnología mueve al mundo, aún hay una cantidad numerosa de sitios que continúan utilizando medios antiguos, y por ende muy básicos, cuando de registrar visitantes se trata.
+
 ## Objetivos
 
-## Problemática Registro de visitantes
+Problemática Registro de visitantes
+
+En el mostrador hay al menos dos recepcionistas, el tiempo de espera para el visitante podría reducirse, pero en muchos sitios sólo se cuenta con una persona frente al mostrador que pide a cada visitante que se registre manualmente en una libreta anotando hora de entrada y firma, además de entregar una identificación a cambio de la que recibe, en la mayoría de las ocasiones, un gafette de visitante con el que podrá acceder a ciertas áreas de la oficina.
+
+Este burocrático proceso toma al menos entre 3-5 minutos por persona y si a eso agregas que hay 5 individuos antes que tú, tu tiempo de espera antes de llegar a tu cita será de al menos 10 minutos.
+
+Pese a que los coworkings, en su mayoría, destacan por sus instalaciones innovadoras, con espacios atractivos, algunos al aire libre, salas de conferencias, cuartos de juegos y descanso, baños inteligentes, por mencionar sólo algunas de sus características, destaca que muchos siguen utilizando el método convencional para registrar a sus usuarios, detalle que no va para nada con la imagen avanzada y tecnológica que venden en su interior.
 
 ### Análisis del proceso de registro manual
 
